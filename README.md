@@ -11,6 +11,7 @@ Algorithms
 Here's a list of the machine learning algorithms currently available in this repository:
 
 -Simple Linear Regression Implemented using ordinary least square. 
+
 -Simple Linear Regression Implemented using gradient descent. 
 
 Usage
